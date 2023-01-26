@@ -15,7 +15,7 @@ The vector u and e is given by
 
     ![eqn2](./ex6.jpg)
 
-    ![eqn3](./ex3.jpg)
+    ![eqn3](./eq3.jpg)
 ## Step 3:
 Obtain the Q matrix   
     ![eqn4](./ex1.jpg)
